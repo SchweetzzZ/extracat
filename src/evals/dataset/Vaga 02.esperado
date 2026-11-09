@@ -1,0 +1,30 @@
+{
+  "cargo": "Backend Developer (Node.js) - Pleno",
+  "senioridade": "pleno",
+  "modalidade": "remoto",
+  "stack": [
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL",
+    "RabbitMQ",
+    "Kafka",
+    "Docker",
+    "Redis",
+    "Kubernetes"
+  ],
+  "requisitos": [
+    "Pelo menos 3 anos de experiência com desenvolvimento backend",
+    "Domínio de Node.js e TypeScript",
+    "Experiência com PostgreSQL e modelagem de dados",
+    "Experiência com mensageria (RabbitMQ ou Kafka)",
+    "Vivência com Docker e pipelines de CI/CD",
+    "Boa comunicação e autonomia para trabalhar remotamente"
+  ],
+  "diferenciais": [
+    "Experiência no mercado financeiro ou com meios de pagamento",
+    "Conhecimento de Redis",
+    "Experiência com Kubernetes",
+    "Conhecimento de arquitetura orientada a eventos"
+  ],
+  "salario": null
+} 

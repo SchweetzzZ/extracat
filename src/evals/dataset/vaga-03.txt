@@ -1,0 +1,29 @@
+ESTÁGIO EM DESENVOLVIMENTO FRONT-END
+ 
+Empresa: Vale Digital Soluções
+Local: Petrolina - PE
+ 
+A Vale Digital é uma software house que cria sistemas web para empresas do agronegócio do Vale do São Francisco. Buscamos um(a) estagiário(a) para apoiar o time de front-end.
+ 
+Atividades
+- Desenvolver telas a partir de protótipos no Figma
+- Criar componentes reutilizáveis em React
+- Consumir APIs REST
+- Corrigir bugs e ajudar na melhoria da interface
+ 
+Pré-requisitos
+- Estar cursando Análise e Desenvolvimento de Sistemas, Ciência da Computação, Sistemas de Informação ou cursos afins (a partir do 2º semestre)
+- Conhecimentos em HTML, CSS e JavaScript
+- Noções de React
+- Noções de Git
+- Disponibilidade para estagiar 6 horas por dia, presencialmente no nosso escritório em Petrolina
+ 
+Desejável
+- Conhecimento em TypeScript
+- Experiência com Tailwind CSS
+- Ter um portfólio ou perfil no GitHub com projetos pessoais
+ 
+Benefícios
+- Bolsa-auxílio de R$ 1.200
+- Auxílio-transporte
+- Possibilidade de efetivação

@@ -1,0 +1,37 @@
+Desenvolvedor(a) Full Stack Júnior
+ 
+Nexo Logística · Recife, PE (Híbrido)
+ 
+Sobre a empresa
+A Nexo Logística desenvolve uma plataforma de rastreamento de entregas usada por mais de 300 transportadoras no Nordeste. Nosso time de tecnologia tem 25 pessoas e está crescendo.
+ 
+Sobre a vaga
+Você vai atuar no squad de Rastreamento, desenvolvendo novas funcionalidades no painel web e nas APIs que recebem os eventos das entregas.
+ 
+Modelo de trabalho: híbrido, com 3 dias por semana no escritório de Recife (Bairro do Recife).
+ 
+Responsabilidades
+- Desenvolver e manter APIs REST em Node.js com NestJS
+- Criar telas e componentes no painel web em React
+- Escrever consultas e migrations no PostgreSQL
+- Participar de code reviews e das cerimônias do time
+ 
+Requisitos
+- Experiência com TypeScript
+- Conhecimento em Node.js e criação de APIs REST
+- Conhecimento em React
+- Conhecimento em banco de dados relacional (PostgreSQL)
+- Uso de Git no dia a dia
+- Noções de Docker
+ 
+Diferenciais
+- Experiência com NestJS
+- Experiência com AWS
+- Testes automatizados com Jest
+- Graduação em andamento em áreas de tecnologia
+ 
+Remuneração e benefícios
+- Salário: R$ 3.500 a R$ 4.500 (CLT)
+- Vale-refeição de R$ 900/mês
+- Plano de saúde e odontológico
+- Auxílio home office nos dias remotos

@@ -1,0 +1,28 @@
+{
+  "cargo": "Estágio em Desenvolvimento Front-end",
+  "senioridade": "estagio",
+  "modalidade": "presencial",
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "Figma",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  "requisitos": [
+    "Estar cursando ADS, Ciência da Computação, Sistemas de Informação ou cursos afins (a partir do 2º semestre)",
+    "Conhecimentos em HTML, CSS e JavaScript",
+    "Noções de React",
+    "Noções de Git",
+    "Disponibilidade para estagiar 6 horas por dia, presencialmente em Petrolina"
+  ],
+  "diferenciais": [
+    "Conhecimento em TypeScript",
+    "Experiência com Tailwind CSS",
+    "Portfólio ou perfil no GitHub com projetos pessoais"
+  ],
+  "salario": "R$ 1.200"
+}

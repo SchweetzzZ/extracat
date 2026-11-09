@@ -1,0 +1,31 @@
+{
+  "cargo": "Desenvolvedor(a) Full Stack Júnior",
+  "senioridade": "junior",
+  "modalidade": "hibrido",
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "NestJS",
+    "React",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "AWS",
+    "Jest"
+  ],
+  "requisitos": [
+    "Experiência com TypeScript",
+    "Conhecimento em Node.js e criação de APIs REST",
+    "Conhecimento em React",
+    "Conhecimento em banco de dados relacional (PostgreSQL)",
+    "Uso de Git no dia a dia",
+    "Noções de Docker"
+  ],
+  "diferenciais": [
+    "Experiência com NestJS",
+    "Experiência com AWS",
+    "Testes automatizados com Jest",
+    "Graduação em andamento em áreas de tecnologia"
+  ],
+  "salario": "R$ 3.500 a R$ 4.500"
+}

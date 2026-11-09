@@ -1,0 +1,31 @@
+Backend Developer (Node.js) - Pleno | 100% Remoto
+ 
+Somos a Pagora, fintech que oferece pagamentos via Pix e boleto para pequenos negócios. Atendemos mais de 40 mil lojistas em todo o Brasil.
+ 
+O que você vai fazer
+- Evoluir nossos microsserviços de pagamento, escritos em Node.js com TypeScript
+- Integrar com parceiros bancários via APIs REST e webhooks
+- Trabalhar com filas de mensageria para processar transações de forma assíncrona
+- Garantir observabilidade e boa performance dos serviços em produção
+ 
+O que esperamos de você
+- Pelo menos 3 anos de experiência com desenvolvimento backend
+- Domínio de Node.js e TypeScript
+- Experiência com PostgreSQL e modelagem de dados
+- Experiência com mensageria (RabbitMQ ou Kafka)
+- Vivência com Docker e pipelines de CI/CD
+- Boa comunicação e autonomia para trabalhar remotamente
+ 
+Será um diferencial
+- Experiência no mercado financeiro ou com meios de pagamento
+- Conhecimento de Redis
+- Experiência com Kubernetes
+- Conhecimento de arquitetura orientada a eventos
+ 
+O que oferecemos
+- Trabalho 100% remoto, de qualquer lugar do Brasil
+- Contratação CLT
+- Remuneração compatível com o mercado
+- Plano de saúde sem coparticipação
+- Gympass
+- Auxílio home office de R$ 150/mês
